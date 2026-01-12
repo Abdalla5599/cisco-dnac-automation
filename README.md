@@ -40,7 +40,7 @@ graph TD
     
     %% Termination
     CreateArea --> End
-
+```
 
 ## Credential Provisioning Flow
 
@@ -91,7 +91,7 @@ graph TD
 
     %% Final
     Assign --> End
-
+```
 
 
 ## Discovery & Site Assignment Flow
@@ -134,3 +134,4 @@ graph TD
     GetDevices --> ExtractIPs
     ExtractIPs --> AssignSite
     AssignSite --> End
+```

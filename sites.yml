@@ -1,0 +1,20 @@
+sites:
+  - name: "Coimbatore"
+    parentName: "Global"
+    buildings:
+      - name: "Tidel_Park"
+        address: "Villankurichi Road, Peelamedu"
+        latitude: "11.0287"
+        longitude: "77.0264"
+      - name: "Main_Office"
+        address: "Avinashi Road"
+        latitude: "11.0168"
+        longitude: "76.9558"
+
+  - name: "Bangalore"
+    parentName: "Global"
+    buildings:
+      - name: "Tech_Park_A"
+        address: "Electronic City Phase 1"
+        latitude: "12.8440"
+        longitude: "77.6631"
